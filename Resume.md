@@ -19,8 +19,7 @@
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
 - 本科，齐鲁工业大学，数据科学与大数据技术专业，2018.9~2022.6
-- 学士，XXXX大学，软件工程专业，2012.9~2016.7
-- 绩点：***，年级前 100%
+- GPA：4.07/5
 - 通过了 CET4/6 英语等级考试
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
