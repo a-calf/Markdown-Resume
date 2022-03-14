@@ -22,11 +22,17 @@
 - GPA：4.07/5
 - CET4/6 
 
-## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
+## <img src="assets/briefcase-solid.svg" width="30px"> 获奖情况
 
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
+- **两次获得国家励志奖学金和一次获得省政府励志奖学金**
+- **学习成绩一等奖学金**
+- **三好学生和优秀三好学生**
+- **全国大学生数学建模竞赛 山东省一等奖**
+- **美国大学生数学建模竞赛 S奖**
+- **第十届APMCM亚太地区大学生数学建模竞赛 三等奖**
+- **蓝桥杯软件设计大赛 山东省二等奖**
+- **山东省数学竞赛 三等奖**
 
-   负责 XXX
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
