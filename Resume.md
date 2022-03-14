@@ -20,7 +20,7 @@
 
 - 本科，齐鲁工业大学，数据科学与大数据技术专业，2018.9~2022.6
 - GPA：4.07/5
-- 通过了 CET4/6 英语等级考试
+- CET4/6 
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
