@@ -16,11 +16,11 @@
 
 
 
-## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
+## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育背景
 
 - 本科，齐鲁工业大学，数据科学与大数据技术专业，2018.9~2022.6
-- GPA：4.07/5
-- CET4/6 
+- GPA：4.07/5；CET4/6
+- 中共预备党员 
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 获奖情况
 
