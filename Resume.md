@@ -44,10 +44,7 @@
 
 ## <img src="assets/tools-solid.svg" width="30px"> 毕业设计
 
-- ★★★ Java
-- ★★☆ C++、Python
-- ★★★ MySQL
-- ★★★ Redis
-- ★★☆ Spring
-- ★☆☆ RabbitMQ、ZooKeeper
-- ★★☆ JavaScript
+- **DNS隐蔽信道检测研究综述：**
+
+  - *DNS是互联网的基础服务，大部分防火墙、IDS会直接允许DNS数据包通过，因此许多网络攻击利用DNS进行通信，借此逃避检测。正常的DNS流量中会有CNAME、A、AAAA记录，而DNS隐蔽信道通常使用TXT、CNAME、NULL等记录传递信息。现有的恶意DNS信道检测与分析有基于内容的分析和基于行为的分析。其中基于内容的分析主要利用恶意DNS的熵值高、特殊符号占比大、内容的可读性差等特征进行分析；基于行为的分析主要利用恶意DNS发送超长域名和响应、很少的重复数据、使用的记录类型等特征进行分析。*
+
